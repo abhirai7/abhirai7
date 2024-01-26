@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects(Data Science))**
+- 👯 I’m looking to collaborate on **Machine Learning Projects(Data Science)**
 
 - 🤝 I’m looking for help with **Web Designing**
 
