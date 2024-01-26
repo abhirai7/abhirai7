@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Data Structures And Algorithms](https://github.com/rtk-rnjn/algorithms)
 
-- 🌱 I’m currently learning **Back End Development**
+- 🌱 I’m currently learning **Back-End Development**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects(Data Science))**
 
