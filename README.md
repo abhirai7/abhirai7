@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding-language%3Fsort%3Drelevant&psig=AOvVaw25HKOfkS_vEB879m4sE-0K&ust=1713524868651000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjsv9vPy4UDFQAAAAAdAAAAABAJ)">
 
 <h1 align="center">Hi 👋, I'm Abhishek Rai</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
