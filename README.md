@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhirai7" alt="abhirai7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abhishek_rai01" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_rai01?logo=twitter&style=for-the-badge" alt="abhishek_rai01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhishek_rai01" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_rai01?logo=twitter&style=for-the-badge" alt="abhishek_rai01" /></a></p>
 
 - 🔭 I’m currently working on [Data Structures And Algorithms](https://github.com/rtk-rnjn/algorithms)
 
